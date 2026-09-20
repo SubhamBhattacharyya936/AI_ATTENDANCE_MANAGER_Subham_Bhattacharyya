@@ -1,0 +1,6 @@
+insightface
+opencv-python
+onnxruntime
+numpy
+pandas
+streamlit
